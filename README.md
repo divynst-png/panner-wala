@@ -74,7 +74,6 @@ Eventually, players confront the **true self** hidden beneath layers of denial a
 * Language: ( html / JavaScript/css)
 * Art Style: Pixel / Stylized 2D
 * Audio: Ambient psychological soundtrack
-<img width="180" height="530" alt="Screenshot 2026-03-03 at 4 43 54 PM" src="https://github.com/user-attachments/assets/58c5955b-bafe-4831-9658-35183394106d" />
 
 ---
 
